@@ -9,12 +9,12 @@
 </head>
 <body>
     
-<h2>Login Form / Register Form</h2>
+<h2>Formulario de Ingreso y Registro a AdsiTech</h2>
 <div class="container" id="container">
 <!-- ********** Formulario de SIGN UP *********** -->
 	<div class="form-container sign-up-container">
 		<form action="sign-up.php" method="post">
-			<h1>Create Account</h1>
+			<h1>Crear Cuenta</h1>
 			<div class="social-container">
                 <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
 				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
@@ -31,7 +31,7 @@
     <!-- ********** Formulario de SIGN IN *********** -->
 	<div class="form-container sign-in-container">
 		<form action="" method="post">
-			<h1>Sign in</h1>
+			<h1>Inicio de Sesion</h1>
 			<div class="social-container">
 				<a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
 				<a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
